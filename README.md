@@ -170,6 +170,7 @@ In this process, I have created view and procedure for each tables. Following ar
   - [dbo].[vETLFactVisits]		-		[dbo].[pETLFillFactVisits]
 
 ![](./Image/stored procedure.png)
+
 ![](./Image/view.png)
 
 Figure05. Stored procedures and views
